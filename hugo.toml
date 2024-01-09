@@ -209,7 +209,7 @@ googleAnalitycsID = "Your ID"
 
   # copyright
   [params.copyright]
-  copyright = "Copyright &copy; 2019 a theme by [themefisher.com](https://themefisher.com)"
+   = "Copyright &copy; 2024 Powered by [Osows.com](https://osows.com)"
 
   ######################### Social site ##############################
   [[params.social]]
