@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseURL = "http://agen/"
+baseURL = "https://github.com/Osows/agen"
 languageCode = "en-us"
 title = "Agen | Bootstrap Agency Template"
 theme = ""
