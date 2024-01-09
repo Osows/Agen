@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News on Agen | Bootstrap Agency Template</title>
-    <link>http://agen/blog/</link>
+    <link>https://github.com/Osows/agen/blog/</link>
     <description>Recent content in Latest News on Agen | Bootstrap Agency Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 16:19:26 +0600</lastBuildDate><atom:link href="http://agen/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2019 16:19:26 +0600</lastBuildDate><atom:link href="https://github.com/Osows/agen/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7 things I learned working at a user-centred design agency</title>
-      <link>http://agen/blog/economics-meter/</link>
+      <link>https://github.com/Osows/agen/blog/economics-meter/</link>
       <pubDate>Thu, 01 Aug 2019 16:19:26 +0600</pubDate>
       
-      <guid>http://agen/blog/economics-meter/</guid>
+      <guid>https://github.com/Osows/agen/blog/economics-meter/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Creating a New Hugo Post</title>
-      <link>http://agen/blog/new-hugo-post/</link>
+      <link>https://github.com/Osows/agen/blog/new-hugo-post/</link>
       <pubDate>Thu, 01 Aug 2019 16:19:26 +0600</pubDate>
       
-      <guid>http://agen/blog/new-hugo-post/</guid>
+      <guid>https://github.com/Osows/agen/blog/new-hugo-post/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
       <title>The agency is dead. Long live the agency.</title>
-      <link>http://agen/blog/cool-the-audits/</link>
+      <link>https://github.com/Osows/agen/blog/cool-the-audits/</link>
       <pubDate>Thu, 01 Aug 2019 16:19:26 +0600</pubDate>
       
-      <guid>http://agen/blog/cool-the-audits/</guid>
+      <guid>https://github.com/Osows/agen/blog/cool-the-audits/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>The design workflow at a digital agency</title>
-      <link>http://agen/blog/finance-my-business/</link>
+      <link>https://github.com/Osows/agen/blog/finance-my-business/</link>
       <pubDate>Thu, 01 Aug 2019 16:19:26 +0600</pubDate>
       
-      <guid>http://agen/blog/finance-my-business/</guid>
+      <guid>https://github.com/Osows/agen/blog/finance-my-business/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>What I Wish I’d Known Before Starting a Digital Agency</title>
-      <link>http://agen/blog/money-and-money/</link>
+      <link>https://github.com/Osows/agen/blog/money-and-money/</link>
       <pubDate>Thu, 01 Aug 2019 16:19:26 +0600</pubDate>
       
-      <guid>http://agen/blog/money-and-money/</guid>
+      <guid>https://github.com/Osows/agen/blog/money-and-money/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Why Talented Creatives Are Leaving Your Shitty Agency</title>
-      <link>http://agen/blog/business-magnate/</link>
+      <link>https://github.com/Osows/agen/blog/business-magnate/</link>
       <pubDate>Thu, 01 Aug 2019 16:19:26 +0600</pubDate>
       
-      <guid>http://agen/blog/business-magnate/</guid>
+      <guid>https://github.com/Osows/agen/blog/business-magnate/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

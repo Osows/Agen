@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Agen | Bootstrap Agency Template</title>
-    <link>http://agen/categories/</link>
+    <link>https://github.com/Osows/agen/categories/</link>
     <description>Recent content in Categories on Agen | Bootstrap Agency Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://agen/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/Osows/agen/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
